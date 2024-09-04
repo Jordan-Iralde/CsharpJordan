@@ -1,0 +1,15 @@
+C:\Users\proalafalda\Documents\GHUBJordan\CsharpJordan\Calculadora\Calculadora\bin\Debug\net8.0\Calculadora.exe
+C:\Users\proalafalda\Documents\GHUBJordan\CsharpJordan\Calculadora\Calculadora\bin\Debug\net8.0\Calculadora.deps.json
+C:\Users\proalafalda\Documents\GHUBJordan\CsharpJordan\Calculadora\Calculadora\bin\Debug\net8.0\Calculadora.runtimeconfig.json
+C:\Users\proalafalda\Documents\GHUBJordan\CsharpJordan\Calculadora\Calculadora\bin\Debug\net8.0\Calculadora.dll
+C:\Users\proalafalda\Documents\GHUBJordan\CsharpJordan\Calculadora\Calculadora\bin\Debug\net8.0\Calculadora.pdb
+C:\Users\proalafalda\Documents\GHUBJordan\CsharpJordan\Calculadora\Calculadora\obj\Debug\net8.0\Calculadora.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\proalafalda\Documents\GHUBJordan\CsharpJordan\Calculadora\Calculadora\obj\Debug\net8.0\Calculadora.AssemblyInfoInputs.cache
+C:\Users\proalafalda\Documents\GHUBJordan\CsharpJordan\Calculadora\Calculadora\obj\Debug\net8.0\Calculadora.AssemblyInfo.cs
+C:\Users\proalafalda\Documents\GHUBJordan\CsharpJordan\Calculadora\Calculadora\obj\Debug\net8.0\Calculadora.csproj.CoreCompileInputs.cache
+C:\Users\proalafalda\Documents\GHUBJordan\CsharpJordan\Calculadora\Calculadora\obj\Debug\net8.0\Calculadora.sourcelink.json
+C:\Users\proalafalda\Documents\GHUBJordan\CsharpJordan\Calculadora\Calculadora\obj\Debug\net8.0\Calculadora.dll
+C:\Users\proalafalda\Documents\GHUBJordan\CsharpJordan\Calculadora\Calculadora\obj\Debug\net8.0\refint\Calculadora.dll
+C:\Users\proalafalda\Documents\GHUBJordan\CsharpJordan\Calculadora\Calculadora\obj\Debug\net8.0\Calculadora.pdb
+C:\Users\proalafalda\Documents\GHUBJordan\CsharpJordan\Calculadora\Calculadora\obj\Debug\net8.0\Calculadora.genruntimeconfig.cache
+C:\Users\proalafalda\Documents\GHUBJordan\CsharpJordan\Calculadora\Calculadora\obj\Debug\net8.0\ref\Calculadora.dll
