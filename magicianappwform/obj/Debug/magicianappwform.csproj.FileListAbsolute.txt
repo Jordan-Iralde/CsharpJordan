@@ -1,0 +1,11 @@
+C:\Users\Proa\source\repos\magicianappwform\magicianappwform\bin\Debug\magicianappwform.exe.config
+C:\Users\Proa\source\repos\magicianappwform\magicianappwform\bin\Debug\magicianappwform.exe
+C:\Users\Proa\source\repos\magicianappwform\magicianappwform\bin\Debug\magicianappwform.pdb
+C:\Users\Proa\source\repos\magicianappwform\magicianappwform\obj\Debug\magicianappwform.csproj.AssemblyReference.cache
+C:\Users\Proa\source\repos\magicianappwform\magicianappwform\obj\Debug\magicianappwform.Properties.Resources.resources
+C:\Users\Proa\source\repos\magicianappwform\magicianappwform\obj\Debug\magicianappwform.csproj.GenerateResource.cache
+C:\Users\Proa\source\repos\magicianappwform\magicianappwform\obj\Debug\magicianappwform.csproj.CoreCompileInputs.cache
+C:\Users\Proa\source\repos\magicianappwform\magicianappwform\obj\Debug\magicianappwform.exe
+C:\Users\Proa\source\repos\magicianappwform\magicianappwform\obj\Debug\magicianappwform.pdb
+C:\Users\Proa\source\repos\magicianappwform\magicianappwform\obj\Debug\magicianappwform.Pestanha1.resources
+C:\Users\Proa\source\repos\magicianappwform\magicianappwform\obj\Debug\magicianappwform.Pestanha2.resources
