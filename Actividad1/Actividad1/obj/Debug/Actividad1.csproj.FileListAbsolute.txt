@@ -1,0 +1,10 @@
+C:\Users\Proa\source\repos\Actividad1\Actividad1\bin\Debug\Actividad1.exe.config
+C:\Users\Proa\source\repos\Actividad1\Actividad1\bin\Debug\Actividad1.exe
+C:\Users\Proa\source\repos\Actividad1\Actividad1\bin\Debug\Actividad1.pdb
+C:\Users\Proa\source\repos\Actividad1\Actividad1\obj\Debug\Actividad1.csproj.AssemblyReference.cache
+C:\Users\Proa\source\repos\Actividad1\Actividad1\obj\Debug\Actividad1.Actividad1.resources
+C:\Users\Proa\source\repos\Actividad1\Actividad1\obj\Debug\Actividad1.Properties.Resources.resources
+C:\Users\Proa\source\repos\Actividad1\Actividad1\obj\Debug\Actividad1.csproj.GenerateResource.cache
+C:\Users\Proa\source\repos\Actividad1\Actividad1\obj\Debug\Actividad1.csproj.CoreCompileInputs.cache
+C:\Users\Proa\source\repos\Actividad1\Actividad1\obj\Debug\Actividad1.exe
+C:\Users\Proa\source\repos\Actividad1\Actividad1\obj\Debug\Actividad1.pdb
