@@ -1,0 +1,11 @@
+C:\Users\Proa\Documents\GitHub\CsharpJordan\CalculadoraWindowsForm\obj\Debug\CalculadoraWindowsForm.csproj.AssemblyReference.cache
+C:\Users\Proa\Documents\GitHub\CsharpJordan\CalculadoraWindowsForm\obj\Debug\CalculadoraWindowsForm.Form1.resources
+C:\Users\Proa\Documents\GitHub\CsharpJordan\CalculadoraWindowsForm\obj\Debug\CalculadoraWindowsForm.Properties.Resources.resources
+C:\Users\Proa\Documents\GitHub\CsharpJordan\CalculadoraWindowsForm\obj\Debug\CalculadoraWindowsForm.csproj.GenerateResource.cache
+C:\Users\Proa\Documents\GitHub\CsharpJordan\CalculadoraWindowsForm\obj\Debug\CalculadoraWindowsForm.csproj.CoreCompileInputs.cache
+C:\Users\Proa\Documents\GitHub\CsharpJordan\CalculadoraWindowsForm\bin\Debug\CalculadoraWindowsForm.exe.config
+C:\Users\Proa\Documents\GitHub\CsharpJordan\CalculadoraWindowsForm\bin\Debug\CalculadoraWindowsForm.exe
+C:\Users\Proa\Documents\GitHub\CsharpJordan\CalculadoraWindowsForm\bin\Debug\CalculadoraWindowsForm.pdb
+C:\Users\Proa\Documents\GitHub\CsharpJordan\CalculadoraWindowsForm\obj\Debug\CalculadoraWindowsForm.exe
+C:\Users\Proa\Documents\GitHub\CsharpJordan\CalculadoraWindowsForm\obj\Debug\CalculadoraWindowsForm.pdb
+C:\Users\Proa\Documents\GitHub\CsharpJordan\CalculadoraWindowsForm\obj\Debug\CalculadoraWindowsForm.exe.config

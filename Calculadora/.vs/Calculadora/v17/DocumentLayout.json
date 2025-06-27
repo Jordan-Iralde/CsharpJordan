@@ -1,14 +1,14 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\proalafalda\\Documents\\GHUBJordan\\CsharpJordan\\Calculadora\\",
+  "WorkspaceRootPath": "C:\\Users\\Proa\\Documents\\GitHub\\CsharpJordan\\Calculadora\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{CFE959B5-CB3E-48E3-8518-772D68C26D06}|Calculadora\\Calculadora.csproj|c:\\users\\proalafalda\\documents\\ghubjordan\\csharpjordan\\calculadora\\calculadora\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CFE959B5-CB3E-48E3-8518-772D68C26D06}|Calculadora\\Calculadora.csproj|solutionrelative:calculadora\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{CFE959B5-CB3E-48E3-8518-772D68C26D06}|Calculadora\\Calculadora.csproj|c:\\users\\proa\\documents\\github\\csharpjordan\\calculadora\\calculadora\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CFE959B5-CB3E-48E3-8518-772D68C26D06}|Calculadora\\Calculadora.csproj|solutionrelative:calculadora\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CFE959B5-CB3E-48E3-8518-772D68C26D06}|Calculadora\\Calculadora.csproj|c:\\users\\proalafalda\\documents\\ghubjordan\\csharpjordan\\calculadora\\calculadora\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CFE959B5-CB3E-48E3-8518-772D68C26D06}|Calculadora\\Calculadora.csproj|solutionrelative:calculadora\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{CFE959B5-CB3E-48E3-8518-772D68C26D06}|Calculadora\\Calculadora.csproj|c:\\users\\proa\\documents\\github\\csharpjordan\\calculadora\\calculadora\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CFE959B5-CB3E-48E3-8518-772D68C26D06}|Calculadora\\Calculadora.csproj|solutionrelative:calculadora\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,15 +18,15 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Class1.cs",
-              "DocumentMoniker": "C:\\Users\\proalafalda\\Documents\\GHUBJordan\\CsharpJordan\\Calculadora\\Calculadora\\Class1.cs",
+              "DocumentMoniker": "C:\\Users\\Proa\\Documents\\GitHub\\CsharpJordan\\Calculadora\\Calculadora\\Class1.cs",
               "RelativeDocumentMoniker": "Calculadora\\Class1.cs",
-              "ToolTip": "C:\\Users\\proalafalda\\Documents\\GHUBJordan\\CsharpJordan\\Calculadora\\Calculadora\\Class1.cs",
+              "ToolTip": "C:\\Users\\Proa\\Documents\\GitHub\\CsharpJordan\\Calculadora\\Calculadora\\Class1.cs",
               "RelativeToolTip": "Calculadora\\Class1.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAAAsAAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -35,11 +35,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\proalafalda\\Documents\\GHUBJordan\\CsharpJordan\\Calculadora\\Calculadora\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\Proa\\Documents\\GitHub\\CsharpJordan\\Calculadora\\Calculadora\\Program.cs",
               "RelativeDocumentMoniker": "Calculadora\\Program.cs",
-              "ToolTip": "C:\\Users\\proalafalda\\Documents\\GHUBJordan\\CsharpJordan\\Calculadora\\Calculadora\\Program.cs",
+              "ToolTip": "C:\\Users\\Proa\\Documents\\GitHub\\CsharpJordan\\Calculadora\\Calculadora\\Program.cs",
               "RelativeToolTip": "Calculadora\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
