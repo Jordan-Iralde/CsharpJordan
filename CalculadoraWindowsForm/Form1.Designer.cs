@@ -28,17 +28,12 @@
         /// </summary>
         private void InitializeComponent()
         {
-            this.lblNumero1 = new System.Windows.Forms.Label();
-            this.lblNumero2 = new System.Windows.Forms.Label();
-            this.txtNumero1 = new System.Windows.Forms.TextBox();
-            this.txtNumero2 = new System.Windows.Forms.TextBox();
             this.btnMultiplicar = new System.Windows.Forms.Button();
             this.btnSumar = new System.Windows.Forms.Button();
             this.btnRestar = new System.Windows.Forms.Button();
             this.btnDividir = new System.Windows.Forms.Button();
             this.lblResultado = new System.Windows.Forms.Label();
             this.txtResultado = new System.Windows.Forms.TextBox();
-            this.btnLimpiar = new System.Windows.Forms.Button();
             this.button3 = new System.Windows.Forms.Button();
             this.btnLimpiarTodo = new System.Windows.Forms.Button();
             this.btnResultado = new System.Windows.Forms.Button();
@@ -54,38 +49,6 @@
             this.btn0 = new System.Windows.Forms.Button();
             this.txtCalculo = new System.Windows.Forms.TextBox();
             this.SuspendLayout();
-            // 
-            // lblNumero1
-            // 
-            this.lblNumero1.AutoSize = true;
-            this.lblNumero1.Location = new System.Drawing.Point(32, 55);
-            this.lblNumero1.Name = "lblNumero1";
-            this.lblNumero1.Size = new System.Drawing.Size(53, 13);
-            this.lblNumero1.TabIndex = 0;
-            this.lblNumero1.Text = "Numero 1";
-            // 
-            // lblNumero2
-            // 
-            this.lblNumero2.AutoSize = true;
-            this.lblNumero2.Location = new System.Drawing.Point(32, 84);
-            this.lblNumero2.Name = "lblNumero2";
-            this.lblNumero2.Size = new System.Drawing.Size(53, 13);
-            this.lblNumero2.TabIndex = 1;
-            this.lblNumero2.Text = "Numero 2";
-            // 
-            // txtNumero1
-            // 
-            this.txtNumero1.Location = new System.Drawing.Point(91, 48);
-            this.txtNumero1.Name = "txtNumero1";
-            this.txtNumero1.Size = new System.Drawing.Size(100, 20);
-            this.txtNumero1.TabIndex = 2;
-            // 
-            // txtNumero2
-            // 
-            this.txtNumero2.Location = new System.Drawing.Point(91, 81);
-            this.txtNumero2.Name = "txtNumero2";
-            this.txtNumero2.Size = new System.Drawing.Size(100, 20);
-            this.txtNumero2.TabIndex = 3;
             // 
             // btnMultiplicar
             // 
@@ -125,11 +88,12 @@
             this.btnDividir.TabIndex = 7;
             this.btnDividir.Text = "/";
             this.btnDividir.UseVisualStyleBackColor = true;
+            this.btnDividir.Click += new System.EventHandler(this.btnDividir_Click);
             // 
             // lblResultado
             // 
             this.lblResultado.AutoSize = true;
-            this.lblResultado.Location = new System.Drawing.Point(191, 47);
+            this.lblResultado.Location = new System.Drawing.Point(118, 47);
             this.lblResultado.Name = "lblResultado";
             this.lblResultado.Size = new System.Drawing.Size(55, 13);
             this.lblResultado.TabIndex = 8;
@@ -137,21 +101,10 @@
             // 
             // txtResultado
             // 
-            this.txtResultado.Location = new System.Drawing.Point(194, 63);
+            this.txtResultado.Location = new System.Drawing.Point(121, 63);
             this.txtResultado.Name = "txtResultado";
-            this.txtResultado.Size = new System.Drawing.Size(100, 20);
+            this.txtResultado.Size = new System.Drawing.Size(173, 20);
             this.txtResultado.TabIndex = 9;
-            this.txtResultado.Click += new System.EventHandler(this.txtResultado_Click);
-            // 
-            // btnLimpiar
-            // 
-            this.btnLimpiar.Location = new System.Drawing.Point(9, 168);
-            this.btnLimpiar.Name = "btnLimpiar";
-            this.btnLimpiar.Size = new System.Drawing.Size(63, 49);
-            this.btnLimpiar.TabIndex = 10;
-            this.btnLimpiar.Text = "CE";
-            this.btnLimpiar.UseVisualStyleBackColor = true;
-            this.btnLimpiar.Click += new System.EventHandler(this.btnLimpiar_Click);
             // 
             // button3
             // 
@@ -161,6 +114,7 @@
             this.button3.TabIndex = 12;
             this.button3.Text = "❎​";
             this.button3.UseVisualStyleBackColor = true;
+            this.button3.Click += new System.EventHandler(this.button3_Click);
             // 
             // btnLimpiarTodo
             // 
@@ -190,6 +144,7 @@
             this.btn2.TabIndex = 15;
             this.btn2.Text = "2";
             this.btn2.UseVisualStyleBackColor = true;
+            this.btn2.Click += new System.EventHandler(this.btnNumero_Click);
             // 
             // btn3
             // 
@@ -199,6 +154,7 @@
             this.btn3.TabIndex = 16;
             this.btn3.Text = "3";
             this.btn3.UseVisualStyleBackColor = true;
+            this.btn3.Click += new System.EventHandler(this.btnNumero_Click);
             // 
             // btn1
             // 
@@ -208,6 +164,7 @@
             this.btn1.TabIndex = 17;
             this.btn1.Text = "1";
             this.btn1.UseVisualStyleBackColor = true;
+            this.btn1.Click += new System.EventHandler(this.btnNumero_Click);
             // 
             // btn6
             // 
@@ -217,6 +174,7 @@
             this.btn6.TabIndex = 18;
             this.btn6.Text = "6";
             this.btn6.UseVisualStyleBackColor = true;
+            this.btn6.Click += new System.EventHandler(this.btnNumero_Click);
             // 
             // btn5
             // 
@@ -226,6 +184,7 @@
             this.btn5.TabIndex = 19;
             this.btn5.Text = "5";
             this.btn5.UseVisualStyleBackColor = true;
+            this.btn5.Click += new System.EventHandler(this.btnNumero_Click);
             // 
             // btn4
             // 
@@ -235,6 +194,7 @@
             this.btn4.TabIndex = 20;
             this.btn4.Text = "4";
             this.btn4.UseVisualStyleBackColor = true;
+            this.btn4.Click += new System.EventHandler(this.btnNumero_Click);
             // 
             // btn9
             // 
@@ -244,6 +204,7 @@
             this.btn9.TabIndex = 21;
             this.btn9.Text = "9";
             this.btn9.UseVisualStyleBackColor = true;
+            this.btn9.Click += new System.EventHandler(this.btnNumero_Click);
             // 
             // btn8
             // 
@@ -253,6 +214,7 @@
             this.btn8.TabIndex = 22;
             this.btn8.Text = "8";
             this.btn8.UseVisualStyleBackColor = true;
+            this.btn8.Click += new System.EventHandler(this.btnNumero_Click);
             // 
             // btn7
             // 
@@ -262,6 +224,7 @@
             this.btn7.TabIndex = 23;
             this.btn7.Text = "7";
             this.btn7.UseVisualStyleBackColor = true;
+            this.btn7.Click += new System.EventHandler(this.btnNumero_Click);
             // 
             // btn0
             // 
@@ -271,14 +234,14 @@
             this.btn0.TabIndex = 24;
             this.btn0.Text = "0";
             this.btn0.UseVisualStyleBackColor = true;
+            this.btn0.Click += new System.EventHandler(this.btnNumero_Click);
             // 
             // txtCalculo
             // 
-            this.txtCalculo.Location = new System.Drawing.Point(194, 120);
+            this.txtCalculo.Location = new System.Drawing.Point(12, 121);
             this.txtCalculo.Name = "txtCalculo";
-            this.txtCalculo.Size = new System.Drawing.Size(100, 20);
+            this.txtCalculo.Size = new System.Drawing.Size(282, 20);
             this.txtCalculo.TabIndex = 25;
-            this.txtCalculo.Text = "numeros";
             // 
             // Form1
             // 
@@ -299,17 +262,12 @@
             this.Controls.Add(this.btnResultado);
             this.Controls.Add(this.btnLimpiarTodo);
             this.Controls.Add(this.button3);
-            this.Controls.Add(this.btnLimpiar);
             this.Controls.Add(this.txtResultado);
             this.Controls.Add(this.lblResultado);
             this.Controls.Add(this.btnDividir);
             this.Controls.Add(this.btnRestar);
             this.Controls.Add(this.btnSumar);
             this.Controls.Add(this.btnMultiplicar);
-            this.Controls.Add(this.txtNumero2);
-            this.Controls.Add(this.txtNumero1);
-            this.Controls.Add(this.lblNumero2);
-            this.Controls.Add(this.lblNumero1);
             this.Name = "Form1";
             this.Text = "Calculadora";
             this.ResumeLayout(false);
@@ -318,18 +276,12 @@
         }
 
         #endregion
-
-        private System.Windows.Forms.Label lblNumero1;
-        private System.Windows.Forms.Label lblNumero2;
-        public System.Windows.Forms.TextBox txtNumero1;
-        public System.Windows.Forms.TextBox txtNumero2;
         private System.Windows.Forms.Button btnMultiplicar;
         private System.Windows.Forms.Button btnSumar;
         private System.Windows.Forms.Button btnRestar;
         private System.Windows.Forms.Button btnDividir;
         private System.Windows.Forms.Label lblResultado;
         private System.Windows.Forms.TextBox txtResultado;
-        private System.Windows.Forms.Button btnLimpiar;
         private System.Windows.Forms.Button button3;
         private System.Windows.Forms.Button btnLimpiarTodo;
         private System.Windows.Forms.Button btnResultado;
