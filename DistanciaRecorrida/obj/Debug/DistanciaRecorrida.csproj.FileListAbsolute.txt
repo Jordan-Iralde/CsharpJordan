@@ -1,0 +1,11 @@
+C:\Users\Proa\Documents\GitHub\CsharpJordan\DistanciaRecorrida\bin\Debug\DistanciaRecorrida.exe.config
+C:\Users\Proa\Documents\GitHub\CsharpJordan\DistanciaRecorrida\bin\Debug\DistanciaRecorrida.exe
+C:\Users\Proa\Documents\GitHub\CsharpJordan\DistanciaRecorrida\bin\Debug\DistanciaRecorrida.pdb
+C:\Users\Proa\Documents\GitHub\CsharpJordan\DistanciaRecorrida\obj\Debug\DistanciaRecorrida.csproj.AssemblyReference.cache
+C:\Users\Proa\Documents\GitHub\CsharpJordan\DistanciaRecorrida\obj\Debug\DistanciaRecorrida.Form1.resources
+C:\Users\Proa\Documents\GitHub\CsharpJordan\DistanciaRecorrida\obj\Debug\DistanciaRecorrida.Properties.Resources.resources
+C:\Users\Proa\Documents\GitHub\CsharpJordan\DistanciaRecorrida\obj\Debug\DistanciaRecorrida.csproj.GenerateResource.cache
+C:\Users\Proa\Documents\GitHub\CsharpJordan\DistanciaRecorrida\obj\Debug\DistanciaRecorrida.csproj.CoreCompileInputs.cache
+C:\Users\Proa\Documents\GitHub\CsharpJordan\DistanciaRecorrida\obj\Debug\DistanciaRecorrida.exe
+C:\Users\Proa\Documents\GitHub\CsharpJordan\DistanciaRecorrida\obj\Debug\DistanciaRecorrida.pdb
+C:\Users\Proa\Documents\GitHub\CsharpJordan\DistanciaRecorrida\obj\Debug\DistanciaRecorrida.exe.config
