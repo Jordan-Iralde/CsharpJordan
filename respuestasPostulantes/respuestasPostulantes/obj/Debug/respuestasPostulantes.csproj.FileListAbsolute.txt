@@ -1,0 +1,11 @@
+C:\Users\yo\Documents\GitHub\CsharpJordan\respuestasPostulantes\respuestasPostulantes\bin\Debug\respuestasPostulantes.exe.config
+C:\Users\yo\Documents\GitHub\CsharpJordan\respuestasPostulantes\respuestasPostulantes\bin\Debug\respuestasPostulantes.exe
+C:\Users\yo\Documents\GitHub\CsharpJordan\respuestasPostulantes\respuestasPostulantes\bin\Debug\respuestasPostulantes.pdb
+C:\Users\yo\Documents\GitHub\CsharpJordan\respuestasPostulantes\respuestasPostulantes\obj\Debug\respuestasPostulantes.csproj.AssemblyReference.cache
+C:\Users\yo\Documents\GitHub\CsharpJordan\respuestasPostulantes\respuestasPostulantes\obj\Debug\respuestasPostulantes.respuestasPostulantes.resources
+C:\Users\yo\Documents\GitHub\CsharpJordan\respuestasPostulantes\respuestasPostulantes\obj\Debug\respuestasPostulantes.Properties.Resources.resources
+C:\Users\yo\Documents\GitHub\CsharpJordan\respuestasPostulantes\respuestasPostulantes\obj\Debug\respuestasPostulantes.csproj.GenerateResource.cache
+C:\Users\yo\Documents\GitHub\CsharpJordan\respuestasPostulantes\respuestasPostulantes\obj\Debug\respuestasPostulantes.csproj.CoreCompileInputs.cache
+C:\Users\yo\Documents\GitHub\CsharpJordan\respuestasPostulantes\respuestasPostulantes\obj\Debug\respuestasPostulantes.exe
+C:\Users\yo\Documents\GitHub\CsharpJordan\respuestasPostulantes\respuestasPostulantes\obj\Debug\respuestasPostulantes.pdb
+C:\Users\yo\Documents\GitHub\CsharpJordan\respuestasPostulantes\respuestasPostulantes\obj\Debug\respuestasPostulantes.exe.config
