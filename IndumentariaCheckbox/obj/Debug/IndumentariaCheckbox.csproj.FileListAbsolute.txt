@@ -1,0 +1,10 @@
+C:\Users\Proa\Documents\GitHub\CsharpJordan\IndumentariaCheckbox\bin\Debug\IndumentariaCheckbox.exe.config
+C:\Users\Proa\Documents\GitHub\CsharpJordan\IndumentariaCheckbox\bin\Debug\IndumentariaCheckbox.exe
+C:\Users\Proa\Documents\GitHub\CsharpJordan\IndumentariaCheckbox\bin\Debug\IndumentariaCheckbox.pdb
+C:\Users\Proa\Documents\GitHub\CsharpJordan\IndumentariaCheckbox\obj\Debug\IndumentariaCheckbox.csproj.AssemblyReference.cache
+C:\Users\Proa\Documents\GitHub\CsharpJordan\IndumentariaCheckbox\obj\Debug\IndumentariaCheckbox.Form1.resources
+C:\Users\Proa\Documents\GitHub\CsharpJordan\IndumentariaCheckbox\obj\Debug\IndumentariaCheckbox.Properties.Resources.resources
+C:\Users\Proa\Documents\GitHub\CsharpJordan\IndumentariaCheckbox\obj\Debug\IndumentariaCheckbox.csproj.GenerateResource.cache
+C:\Users\Proa\Documents\GitHub\CsharpJordan\IndumentariaCheckbox\obj\Debug\IndumentariaCheckbox.csproj.CoreCompileInputs.cache
+C:\Users\Proa\Documents\GitHub\CsharpJordan\IndumentariaCheckbox\obj\Debug\IndumentariaCheckbox.exe
+C:\Users\Proa\Documents\GitHub\CsharpJordan\IndumentariaCheckbox\obj\Debug\IndumentariaCheckbox.pdb
