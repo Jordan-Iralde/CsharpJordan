@@ -1,0 +1,11 @@
+C:\Users\Proa\Documents\GitHub\CsharpJordan\EjerciciosRadioButton1\bin\Debug\EjerciciosRadioButton1.exe.config
+C:\Users\Proa\Documents\GitHub\CsharpJordan\EjerciciosRadioButton1\bin\Debug\EjerciciosRadioButton1.exe
+C:\Users\Proa\Documents\GitHub\CsharpJordan\EjerciciosRadioButton1\bin\Debug\EjerciciosRadioButton1.pdb
+C:\Users\Proa\Documents\GitHub\CsharpJordan\EjerciciosRadioButton1\obj\Debug\EjerciciosRadioButton1.csproj.AssemblyReference.cache
+C:\Users\Proa\Documents\GitHub\CsharpJordan\EjerciciosRadioButton1\obj\Debug\EjerciciosRadioButton1.FrmIngresos.resources
+C:\Users\Proa\Documents\GitHub\CsharpJordan\EjerciciosRadioButton1\obj\Debug\EjerciciosRadioButton1.Properties.Resources.resources
+C:\Users\Proa\Documents\GitHub\CsharpJordan\EjerciciosRadioButton1\obj\Debug\EjerciciosRadioButton1.csproj.GenerateResource.cache
+C:\Users\Proa\Documents\GitHub\CsharpJordan\EjerciciosRadioButton1\obj\Debug\EjerciciosRadioButton1.csproj.CoreCompileInputs.cache
+C:\Users\Proa\Documents\GitHub\CsharpJordan\EjerciciosRadioButton1\obj\Debug\EjerciciosRadioButton1.exe
+C:\Users\Proa\Documents\GitHub\CsharpJordan\EjerciciosRadioButton1\obj\Debug\EjerciciosRadioButton1.pdb
+C:\Users\Proa\Documents\GitHub\CsharpJordan\EjerciciosRadioButton1\obj\Debug\EjerciciosRadioButton1.exe.config
