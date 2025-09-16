@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Proa\\Documents\\GitHub\\CsharpJordan\\Actividades2025\\10_RadioCheckBox\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7073320C-E701-4036-A16B-DFA42FDEDAC1}|10_RadioCheckBox.csproj|c:\\users\\proa\\documents\\github\\csharpjordan\\actividades2025\\10_radiocheckbox\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7073320C-E701-4036-A16B-DFA42FDEDAC1}|10_RadioCheckBox.csproj|solutionrelative:form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7073320C-E701-4036-A16B-DFA42FDEDAC1}|10_RadioCheckBox.csproj|c:\\users\\proa\\documents\\github\\csharpjordan\\actividades2025\\10_radiocheckbox\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7073320C-E701-4036-A16B-DFA42FDEDAC1}|10_RadioCheckBox.csproj|solutionrelative:form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7073320C-E701-4036-A16B-DFA42FDEDAC1}|10_RadioCheckBox.csproj|c:\\users\\proa\\documents\\github\\csharpjordan\\actividades2025\\10_radiocheckbox\\form2.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7073320C-E701-4036-A16B-DFA42FDEDAC1}|10_RadioCheckBox.csproj|solutionrelative:form2.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form2.cs",
+              "DocumentMoniker": "C:\\Users\\Proa\\Documents\\GitHub\\CsharpJordan\\Actividades2025\\10_RadioCheckBox\\Form2.cs",
+              "RelativeDocumentMoniker": "Form2.cs",
+              "ToolTip": "C:\\Users\\Proa\\Documents\\GitHub\\CsharpJordan\\Actividades2025\\10_RadioCheckBox\\Form2.cs",
+              "RelativeToolTip": "Form2.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAswDUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-16T16:55:28.197Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form2.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Proa\\Documents\\GitHub\\CsharpJordan\\Actividades2025\\10_RadioCheckBox\\Form2.cs",
+              "RelativeDocumentMoniker": "Form2.cs",
+              "ToolTip": "C:\\Users\\Proa\\Documents\\GitHub\\CsharpJordan\\Actividades2025\\10_RadioCheckBox\\Form2.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Form2.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-16T16:48:51.299Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form2.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Proa\\Documents\\GitHub\\CsharpJordan\\Actividades2025\\10_RadioCheckBox\\Form2.Designer.cs",
+              "RelativeDocumentMoniker": "Form2.Designer.cs",
+              "ToolTip": "C:\\Users\\Proa\\Documents\\GitHub\\CsharpJordan\\Actividades2025\\10_RadioCheckBox\\Form2.Designer.cs",
+              "RelativeToolTip": "Form2.Designer.cs",
+              "ViewState": "AgIAALMAAAAAAAAAAADwv8YAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-16T16:48:48.807Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
