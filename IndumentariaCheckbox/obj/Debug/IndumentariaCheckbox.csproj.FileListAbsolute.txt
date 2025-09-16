@@ -8,3 +8,4 @@ C:\Users\Proa\Documents\GitHub\CsharpJordan\IndumentariaCheckbox\obj\Debug\Indum
 C:\Users\Proa\Documents\GitHub\CsharpJordan\IndumentariaCheckbox\obj\Debug\IndumentariaCheckbox.csproj.CoreCompileInputs.cache
 C:\Users\Proa\Documents\GitHub\CsharpJordan\IndumentariaCheckbox\obj\Debug\IndumentariaCheckbox.exe
 C:\Users\Proa\Documents\GitHub\CsharpJordan\IndumentariaCheckbox\obj\Debug\IndumentariaCheckbox.pdb
+C:\Users\Proa\Documents\GitHub\CsharpJordan\IndumentariaCheckbox\obj\Debug\IndumentariaCheckbox.exe.config

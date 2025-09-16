@@ -30,16 +30,18 @@
         {
             System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(Form1));
             this.grpbox = new System.Windows.Forms.GroupBox();
-            this.chkBox = new System.Windows.Forms.CheckBox();
-            this.checkBox2 = new System.Windows.Forms.CheckBox();
-            this.checkBox3 = new System.Windows.Forms.CheckBox();
-            this.checkBox4 = new System.Windows.Forms.CheckBox();
-            this.checkBox5 = new System.Windows.Forms.CheckBox();
-            this.lblCamisa = new System.Windows.Forms.Label();
-            this.lblRemera = new System.Windows.Forms.Label();
-            this.lblPantalon = new System.Windows.Forms.Label();
-            this.lblCampera = new System.Windows.Forms.Label();
             this.lblZapatillas = new System.Windows.Forms.Label();
+            this.lblCampera = new System.Windows.Forms.Label();
+            this.lblPantalon = new System.Windows.Forms.Label();
+            this.lblRemera = new System.Windows.Forms.Label();
+            this.lblCamisa = new System.Windows.Forms.Label();
+            this.checkBox5 = new System.Windows.Forms.CheckBox();
+            this.checkBox4 = new System.Windows.Forms.CheckBox();
+            this.checkBox3 = new System.Windows.Forms.CheckBox();
+            this.checkBox2 = new System.Windows.Forms.CheckBox();
+            this.checkBox = new System.Windows.Forms.CheckBox();
+            this.btnCalcular = new System.Windows.Forms.Button();
+            this.lblTotal = new System.Windows.Forms.Label();
             this.grpbox.SuspendLayout();
             this.SuspendLayout();
             // 
@@ -48,6 +50,8 @@
             this.grpbox.Anchor = System.Windows.Forms.AnchorStyles.Top;
             this.grpbox.BackColor = System.Drawing.Color.Transparent;
             this.grpbox.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("grpbox.BackgroundImage")));
+            this.grpbox.Controls.Add(this.lblTotal);
+            this.grpbox.Controls.Add(this.btnCalcular);
             this.grpbox.Controls.Add(this.lblZapatillas);
             this.grpbox.Controls.Add(this.lblCampera);
             this.grpbox.Controls.Add(this.lblPantalon);
@@ -57,7 +61,7 @@
             this.grpbox.Controls.Add(this.checkBox4);
             this.grpbox.Controls.Add(this.checkBox3);
             this.grpbox.Controls.Add(this.checkBox2);
-            this.grpbox.Controls.Add(this.chkBox);
+            this.grpbox.Controls.Add(this.checkBox);
             this.grpbox.Font = new System.Drawing.Font("Microsoft Sans Serif", 27.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.grpbox.ForeColor = System.Drawing.SystemColors.ButtonFace;
             this.grpbox.Location = new System.Drawing.Point(178, 41);
@@ -68,45 +72,50 @@
             this.grpbox.Text = "Indumentaria";
             this.grpbox.Enter += new System.EventHandler(this.grpbox_Enter);
             // 
-            // chkBox
+            // lblZapatillas
             // 
-            this.chkBox.AutoSize = true;
-            this.chkBox.Location = new System.Drawing.Point(33, 88);
-            this.chkBox.Name = "chkBox";
-            this.chkBox.Size = new System.Drawing.Size(163, 46);
-            this.chkBox.TabIndex = 0;
-            this.chkBox.Text = "Camisa";
-            this.chkBox.UseVisualStyleBackColor = true;
+            this.lblZapatillas.AutoSize = true;
+            this.lblZapatillas.Location = new System.Drawing.Point(315, 300);
+            this.lblZapatillas.Name = "lblZapatillas";
+            this.lblZapatillas.Size = new System.Drawing.Size(123, 42);
+            this.lblZapatillas.TabIndex = 9;
+            this.lblZapatillas.Text = "20000";
             // 
-            // checkBox2
+            // lblCampera
             // 
-            this.checkBox2.AutoSize = true;
-            this.checkBox2.Location = new System.Drawing.Point(33, 140);
-            this.checkBox2.Name = "checkBox2";
-            this.checkBox2.Size = new System.Drawing.Size(169, 46);
-            this.checkBox2.TabIndex = 1;
-            this.checkBox2.Text = "Remera";
-            this.checkBox2.UseVisualStyleBackColor = true;
+            this.lblCampera.AutoSize = true;
+            this.lblCampera.Location = new System.Drawing.Point(315, 248);
+            this.lblCampera.Name = "lblCampera";
+            this.lblCampera.Size = new System.Drawing.Size(123, 42);
+            this.lblCampera.TabIndex = 8;
+            this.lblCampera.Text = "50000";
             // 
-            // checkBox3
+            // lblPantalon
             // 
-            this.checkBox3.AutoSize = true;
-            this.checkBox3.Location = new System.Drawing.Point(33, 192);
-            this.checkBox3.Name = "checkBox3";
-            this.checkBox3.Size = new System.Drawing.Size(185, 46);
-            this.checkBox3.TabIndex = 2;
-            this.checkBox3.Text = "Pantalon";
-            this.checkBox3.UseVisualStyleBackColor = true;
+            this.lblPantalon.AutoSize = true;
+            this.lblPantalon.Location = new System.Drawing.Point(315, 196);
+            this.lblPantalon.Name = "lblPantalon";
+            this.lblPantalon.Size = new System.Drawing.Size(123, 42);
+            this.lblPantalon.TabIndex = 7;
+            this.lblPantalon.Text = "15000";
             // 
-            // checkBox4
+            // lblRemera
             // 
-            this.checkBox4.AutoSize = true;
-            this.checkBox4.Location = new System.Drawing.Point(33, 244);
-            this.checkBox4.Name = "checkBox4";
-            this.checkBox4.Size = new System.Drawing.Size(190, 46);
-            this.checkBox4.TabIndex = 3;
-            this.checkBox4.Text = "Campera";
-            this.checkBox4.UseVisualStyleBackColor = true;
+            this.lblRemera.AutoSize = true;
+            this.lblRemera.Location = new System.Drawing.Point(315, 140);
+            this.lblRemera.Name = "lblRemera";
+            this.lblRemera.Size = new System.Drawing.Size(123, 42);
+            this.lblRemera.TabIndex = 6;
+            this.lblRemera.Text = "10000";
+            // 
+            // lblCamisa
+            // 
+            this.lblCamisa.AutoSize = true;
+            this.lblCamisa.Location = new System.Drawing.Point(315, 89);
+            this.lblCamisa.Name = "lblCamisa";
+            this.lblCamisa.Size = new System.Drawing.Size(123, 42);
+            this.lblCamisa.TabIndex = 5;
+            this.lblCamisa.Text = "30000";
             // 
             // checkBox5
             // 
@@ -118,50 +127,64 @@
             this.checkBox5.Text = "Zapatillas";
             this.checkBox5.UseVisualStyleBackColor = true;
             // 
-            // lblCamisa
+            // checkBox4
             // 
-            this.lblCamisa.AutoSize = true;
-            this.lblCamisa.Location = new System.Drawing.Point(315, 89);
-            this.lblCamisa.Name = "lblCamisa";
-            this.lblCamisa.Size = new System.Drawing.Size(169, 42);
-            this.lblCamisa.TabIndex = 5;
-            this.lblCamisa.Text = "-->30000";
+            this.checkBox4.AutoSize = true;
+            this.checkBox4.Location = new System.Drawing.Point(33, 244);
+            this.checkBox4.Name = "checkBox4";
+            this.checkBox4.Size = new System.Drawing.Size(190, 46);
+            this.checkBox4.TabIndex = 3;
+            this.checkBox4.Text = "Campera";
+            this.checkBox4.UseVisualStyleBackColor = true;
             // 
-            // lblRemera
+            // checkBox3
             // 
-            this.lblRemera.AutoSize = true;
-            this.lblRemera.Location = new System.Drawing.Point(315, 140);
-            this.lblRemera.Name = "lblRemera";
-            this.lblRemera.Size = new System.Drawing.Size(169, 42);
-            this.lblRemera.TabIndex = 6;
-            this.lblRemera.Text = "-->10000";
+            this.checkBox3.AutoSize = true;
+            this.checkBox3.Location = new System.Drawing.Point(33, 192);
+            this.checkBox3.Name = "checkBox3";
+            this.checkBox3.Size = new System.Drawing.Size(185, 46);
+            this.checkBox3.TabIndex = 2;
+            this.checkBox3.Text = "Pantalon";
+            this.checkBox3.UseVisualStyleBackColor = true;
             // 
-            // lblPantalon
+            // checkBox2
             // 
-            this.lblPantalon.AutoSize = true;
-            this.lblPantalon.Location = new System.Drawing.Point(315, 196);
-            this.lblPantalon.Name = "lblPantalon";
-            this.lblPantalon.Size = new System.Drawing.Size(169, 42);
-            this.lblPantalon.TabIndex = 7;
-            this.lblPantalon.Text = "-->15000";
+            this.checkBox2.AutoSize = true;
+            this.checkBox2.Location = new System.Drawing.Point(33, 140);
+            this.checkBox2.Name = "checkBox2";
+            this.checkBox2.Size = new System.Drawing.Size(169, 46);
+            this.checkBox2.TabIndex = 1;
+            this.checkBox2.Text = "Remera";
+            this.checkBox2.UseVisualStyleBackColor = true;
             // 
-            // lblCampera
+            // checkBox
             // 
-            this.lblCampera.AutoSize = true;
-            this.lblCampera.Location = new System.Drawing.Point(315, 248);
-            this.lblCampera.Name = "lblCampera";
-            this.lblCampera.Size = new System.Drawing.Size(169, 42);
-            this.lblCampera.TabIndex = 8;
-            this.lblCampera.Text = "-->50000";
+            this.checkBox.AutoSize = true;
+            this.checkBox.Location = new System.Drawing.Point(33, 88);
+            this.checkBox.Name = "checkBox";
+            this.checkBox.Size = new System.Drawing.Size(163, 46);
+            this.checkBox.TabIndex = 0;
+            this.checkBox.Text = "Camisa";
+            this.checkBox.UseVisualStyleBackColor = true;
             // 
-            // lblZapatillas
+            // btnCalcular
             // 
-            this.lblZapatillas.AutoSize = true;
-            this.lblZapatillas.Location = new System.Drawing.Point(315, 300);
-            this.lblZapatillas.Name = "lblZapatillas";
-            this.lblZapatillas.Size = new System.Drawing.Size(169, 42);
-            this.lblZapatillas.TabIndex = 9;
-            this.lblZapatillas.Text = "-->20000";
+            this.btnCalcular.ForeColor = System.Drawing.SystemColors.ActiveCaptionText;
+            this.btnCalcular.Location = new System.Drawing.Point(48, 433);
+            this.btnCalcular.Name = "btnCalcular";
+            this.btnCalcular.Size = new System.Drawing.Size(200, 49);
+            this.btnCalcular.TabIndex = 10;
+            this.btnCalcular.Text = "Calcular";
+            this.btnCalcular.UseVisualStyleBackColor = true;
+            this.btnCalcular.Click += new System.EventHandler(this.btnCalcular_Click);
+            // 
+            // lblTotal
+            // 
+            this.lblTotal.AutoSize = true;
+            this.lblTotal.Location = new System.Drawing.Point(324, 433);
+            this.lblTotal.Name = "lblTotal";
+            this.lblTotal.Size = new System.Drawing.Size(0, 42);
+            this.lblTotal.TabIndex = 11;
             // 
             // Form1
             // 
@@ -185,11 +208,13 @@
         private System.Windows.Forms.CheckBox checkBox4;
         private System.Windows.Forms.CheckBox checkBox3;
         private System.Windows.Forms.CheckBox checkBox2;
-        private System.Windows.Forms.CheckBox chkBox;
+        private System.Windows.Forms.CheckBox checkBox;
         private System.Windows.Forms.Label lblZapatillas;
         private System.Windows.Forms.Label lblCampera;
         private System.Windows.Forms.Label lblPantalon;
         private System.Windows.Forms.Label lblRemera;
+        private System.Windows.Forms.Label lblTotal;
+        private System.Windows.Forms.Button btnCalcular;
     }
 }
 
