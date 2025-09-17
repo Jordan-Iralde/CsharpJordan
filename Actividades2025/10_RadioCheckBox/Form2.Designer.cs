@@ -1,4 +1,6 @@
-﻿namespace _10_RadioCheckBox
+﻿using System;
+
+namespace _10_RadioCheckBox
 {
     partial class Form2
     {
@@ -33,6 +35,9 @@
             this.btnExit = new System.Windows.Forms.Button();
             this.btnAceptar = new System.Windows.Forms.Button();
             this.grpBoxTotal = new System.Windows.Forms.GroupBox();
+            this.txtTotal = new System.Windows.Forms.TextBox();
+            this.txtIva = new System.Windows.Forms.TextBox();
+            this.txtSubtotal = new System.Windows.Forms.TextBox();
             this.lblTotalAPagar = new System.Windows.Forms.Label();
             this.lblIva = new System.Windows.Forms.Label();
             this.lblSubtotal = new System.Windows.Forms.Label();
@@ -51,9 +56,6 @@
             this.txtCantidad3 = new System.Windows.Forms.TextBox();
             this.txtCantidad2 = new System.Windows.Forms.TextBox();
             this.txtCantidad1 = new System.Windows.Forms.TextBox();
-            this.txtSubtotal = new System.Windows.Forms.TextBox();
-            this.txtIva = new System.Windows.Forms.TextBox();
-            this.txtTotal = new System.Windows.Forms.TextBox();
             this.grpBoxMenu.SuspendLayout();
             this.grpBoxTotal.SuspendLayout();
             this.grpBoxPrecio.SuspendLayout();
@@ -120,6 +122,30 @@
             this.grpBoxTotal.Size = new System.Drawing.Size(351, 122);
             this.grpBoxTotal.TabIndex = 2;
             this.grpBoxTotal.TabStop = false;
+            // 
+            // txtTotal
+            // 
+            this.txtTotal.Enabled = false;
+            this.txtTotal.Location = new System.Drawing.Point(188, 87);
+            this.txtTotal.Name = "txtTotal";
+            this.txtTotal.Size = new System.Drawing.Size(147, 20);
+            this.txtTotal.TabIndex = 5;
+            // 
+            // txtIva
+            // 
+            this.txtIva.Enabled = false;
+            this.txtIva.Location = new System.Drawing.Point(188, 56);
+            this.txtIva.Name = "txtIva";
+            this.txtIva.Size = new System.Drawing.Size(147, 20);
+            this.txtIva.TabIndex = 4;
+            // 
+            // txtSubtotal
+            // 
+            this.txtSubtotal.Enabled = false;
+            this.txtSubtotal.Location = new System.Drawing.Point(188, 20);
+            this.txtSubtotal.Name = "txtSubtotal";
+            this.txtSubtotal.Size = new System.Drawing.Size(147, 20);
+            this.txtSubtotal.TabIndex = 3;
             // 
             // lblTotalAPagar
             // 
@@ -218,6 +244,7 @@
             this.chkBox4.TabIndex = 3;
             this.chkBox4.Text = "Paquete el Trio";
             this.chkBox4.UseVisualStyleBackColor = true;
+            this.chkBox4.Click += new System.EventHandler(this.chkBox4_Click);
             // 
             // chkBox3
             // 
@@ -228,6 +255,7 @@
             this.chkBox3.TabIndex = 2;
             this.chkBox3.Text = "Paquete Familiar";
             this.chkBox3.UseVisualStyleBackColor = true;
+            this.chkBox3.Click += new System.EventHandler(this.chkBox3_Click);
             // 
             // chkBox2
             // 
@@ -238,6 +266,7 @@
             this.chkBox2.TabIndex = 1;
             this.chkBox2.Text = "Paquete Duo";
             this.chkBox2.UseVisualStyleBackColor = true;
+            this.chkBox2.Click += new System.EventHandler(this.chkBox2_Click);
             // 
             // chkBox1
             // 
@@ -270,6 +299,7 @@
             this.txtCantidad4.Name = "txtCantidad4";
             this.txtCantidad4.Size = new System.Drawing.Size(136, 20);
             this.txtCantidad4.TabIndex = 3;
+            this.txtCantidad4.Text = "0";
             // 
             // txtCantidad3
             // 
@@ -278,6 +308,7 @@
             this.txtCantidad3.Name = "txtCantidad3";
             this.txtCantidad3.Size = new System.Drawing.Size(136, 20);
             this.txtCantidad3.TabIndex = 2;
+            this.txtCantidad3.Text = "0";
             // 
             // txtCantidad2
             // 
@@ -286,6 +317,7 @@
             this.txtCantidad2.Name = "txtCantidad2";
             this.txtCantidad2.Size = new System.Drawing.Size(136, 20);
             this.txtCantidad2.TabIndex = 1;
+            this.txtCantidad2.Text = "0";
             // 
             // txtCantidad1
             // 
@@ -294,30 +326,7 @@
             this.txtCantidad1.Name = "txtCantidad1";
             this.txtCantidad1.Size = new System.Drawing.Size(136, 20);
             this.txtCantidad1.TabIndex = 0;
-            // 
-            // txtSubtotal
-            // 
-            this.txtSubtotal.Enabled = false;
-            this.txtSubtotal.Location = new System.Drawing.Point(188, 20);
-            this.txtSubtotal.Name = "txtSubtotal";
-            this.txtSubtotal.Size = new System.Drawing.Size(147, 20);
-            this.txtSubtotal.TabIndex = 3;
-            // 
-            // txtIva
-            // 
-            this.txtIva.Enabled = false;
-            this.txtIva.Location = new System.Drawing.Point(188, 56);
-            this.txtIva.Name = "txtIva";
-            this.txtIva.Size = new System.Drawing.Size(147, 20);
-            this.txtIva.TabIndex = 4;
-            // 
-            // txtTotal
-            // 
-            this.txtTotal.Enabled = false;
-            this.txtTotal.Location = new System.Drawing.Point(188, 87);
-            this.txtTotal.Name = "txtTotal";
-            this.txtTotal.Size = new System.Drawing.Size(147, 20);
-            this.txtTotal.TabIndex = 5;
+            this.txtCantidad1.Text = "0";
             // 
             // Form2
             // 
@@ -338,6 +347,11 @@
             this.grpBoxCantidad.PerformLayout();
             this.ResumeLayout(false);
 
+        }
+
+        private EventHandler isChecked(object clicked)
+        {
+            throw new NotImplementedException();
         }
 
         #endregion
