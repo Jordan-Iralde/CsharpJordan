@@ -63,7 +63,7 @@ namespace _10_RadioCheckBox
 
         private void btnSalir_Click(object sender, EventArgs e)
         {
-            Application.Exit();
+            Form.ActiveForm.Close();
         }
     }
 }

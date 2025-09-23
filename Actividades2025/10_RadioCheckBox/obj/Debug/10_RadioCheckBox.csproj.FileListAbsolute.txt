@@ -11,3 +11,16 @@ C:\Users\Proa\Documents\GitHub\CsharpJordan\Actividades2025\10_RadioCheckBox\obj
 C:\Users\Proa\Documents\GitHub\CsharpJordan\Actividades2025\10_RadioCheckBox\obj\Debug\10_RadioCheckBox.exe.config
 C:\Users\Proa\Documents\GitHub\CsharpJordan\Actividades2025\10_RadioCheckBox\obj\Debug\_10_RadioCheckBox.Form2.resources
 C:\Users\Proa\Documents\GitHub\CsharpJordan\Actividades2025\10_RadioCheckBox\obj\Debug\_10_RadioCheckBox.Form3.resources
+C:\Users\yo\Documents\GitHub\CsharpJordan\Actividades2025\10_RadioCheckBox\bin\Debug\10_RadioCheckBox.exe.config
+C:\Users\yo\Documents\GitHub\CsharpJordan\Actividades2025\10_RadioCheckBox\bin\Debug\10_RadioCheckBox.exe
+C:\Users\yo\Documents\GitHub\CsharpJordan\Actividades2025\10_RadioCheckBox\bin\Debug\10_RadioCheckBox.pdb
+C:\Users\yo\Documents\GitHub\CsharpJordan\Actividades2025\10_RadioCheckBox\obj\Debug\10_RadioCheckBox.csproj.AssemblyReference.cache
+C:\Users\yo\Documents\GitHub\CsharpJordan\Actividades2025\10_RadioCheckBox\obj\Debug\10_RadioCheckBox.exe.config
+C:\Users\yo\Documents\GitHub\CsharpJordan\Actividades2025\10_RadioCheckBox\obj\Debug\_10_RadioCheckBox.frm1.resources
+C:\Users\yo\Documents\GitHub\CsharpJordan\Actividades2025\10_RadioCheckBox\obj\Debug\_10_RadioCheckBox.Form2.resources
+C:\Users\yo\Documents\GitHub\CsharpJordan\Actividades2025\10_RadioCheckBox\obj\Debug\_10_RadioCheckBox.Form3.resources
+C:\Users\yo\Documents\GitHub\CsharpJordan\Actividades2025\10_RadioCheckBox\obj\Debug\_10_RadioCheckBox.Properties.Resources.resources
+C:\Users\yo\Documents\GitHub\CsharpJordan\Actividades2025\10_RadioCheckBox\obj\Debug\10_RadioCheckBox.csproj.GenerateResource.cache
+C:\Users\yo\Documents\GitHub\CsharpJordan\Actividades2025\10_RadioCheckBox\obj\Debug\10_RadioCheckBox.csproj.CoreCompileInputs.cache
+C:\Users\yo\Documents\GitHub\CsharpJordan\Actividades2025\10_RadioCheckBox\obj\Debug\10_RadioCheckBox.exe
+C:\Users\yo\Documents\GitHub\CsharpJordan\Actividades2025\10_RadioCheckBox\obj\Debug\10_RadioCheckBox.pdb

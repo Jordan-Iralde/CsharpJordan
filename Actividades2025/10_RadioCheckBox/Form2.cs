@@ -18,7 +18,7 @@ namespace _10_RadioCheckBox
         }
         private void btnExit_Click(object sender, EventArgs e)
         {
-            Application.Exit();
+            Form.ActiveForm.Close();
         }
 
         private void btnNuevaCompra_Click(object sender, EventArgs e)
@@ -31,6 +31,11 @@ namespace _10_RadioCheckBox
             txtSubtotal.Text = "";
             txtIva.Text = "";
             txtTotal.Text = "";
+
+            txtCantidad1.Enabled = false;
+            txtCantidad2.Enabled = false;
+            txtCantidad3.Enabled = false;
+            txtCantidad4.Enabled = false;
 
             chkBox1.Checked = false;
             chkBox2.Checked = false;

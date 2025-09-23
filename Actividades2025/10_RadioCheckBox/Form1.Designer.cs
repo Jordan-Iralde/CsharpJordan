@@ -66,7 +66,7 @@
             this.txtResultado.Enabled = false;
             this.txtResultado.Location = new System.Drawing.Point(116, 299);
             this.txtResultado.Name = "txtResultado";
-            this.txtResultado.Size = new System.Drawing.Size(226, 20);
+            this.txtResultado.Size = new System.Drawing.Size(360, 20);
             this.txtResultado.TabIndex = 6;
             // 
             // txtNumero
@@ -178,7 +178,6 @@
             this.Controls.Add(this.grpBox1);
             this.Name = "frm1";
             this.Text = "ValidarNumeros";
-            this.Load += new System.EventHandler(this.frm1_Load);
             this.grpBox1.ResumeLayout(false);
             this.grpBox1.PerformLayout();
             this.grpBox2.ResumeLayout(false);
