@@ -1,0 +1,11 @@
+C:\Users\Proa\Documents\GitHub\CsharpJordan\Actividades2025\11_Testeo\bin\Debug\11_Testeo.exe.config
+C:\Users\Proa\Documents\GitHub\CsharpJordan\Actividades2025\11_Testeo\bin\Debug\11_Testeo.exe
+C:\Users\Proa\Documents\GitHub\CsharpJordan\Actividades2025\11_Testeo\bin\Debug\11_Testeo.pdb
+C:\Users\Proa\Documents\GitHub\CsharpJordan\Actividades2025\11_Testeo\obj\Debug\11_Testeo.csproj.AssemblyReference.cache
+C:\Users\Proa\Documents\GitHub\CsharpJordan\Actividades2025\11_Testeo\obj\Debug\_11_Testeo.Form1.resources
+C:\Users\Proa\Documents\GitHub\CsharpJordan\Actividades2025\11_Testeo\obj\Debug\_11_Testeo.Properties.Resources.resources
+C:\Users\Proa\Documents\GitHub\CsharpJordan\Actividades2025\11_Testeo\obj\Debug\11_Testeo.csproj.GenerateResource.cache
+C:\Users\Proa\Documents\GitHub\CsharpJordan\Actividades2025\11_Testeo\obj\Debug\11_Testeo.csproj.CoreCompileInputs.cache
+C:\Users\Proa\Documents\GitHub\CsharpJordan\Actividades2025\11_Testeo\obj\Debug\11_Testeo.exe
+C:\Users\Proa\Documents\GitHub\CsharpJordan\Actividades2025\11_Testeo\obj\Debug\11_Testeo.pdb
+C:\Users\Proa\Documents\GitHub\CsharpJordan\Actividades2025\11_Testeo\obj\Debug\11_Testeo.exe.config
