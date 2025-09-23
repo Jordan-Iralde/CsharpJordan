@@ -18,7 +18,7 @@ namespace _10_RadioCheckBox
         }
         private void btnExit_Click(object sender, EventArgs e)
         {
-            Form.ActiveForm.Close();
+            Form2.ActiveForm.Close();
         }
 
         private void btnNuevaCompra_Click(object sender, EventArgs e)

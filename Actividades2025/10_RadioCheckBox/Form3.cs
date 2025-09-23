@@ -38,7 +38,7 @@ namespace _10_RadioCheckBox
 
         private void btnExit_Click(object sender, EventArgs e)
         {
-            Form.ActiveForm.Close();
+            Form3.ActiveForm.Close();
         }
 
         private void btnCalcular_Click(object sender, EventArgs e)
