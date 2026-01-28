@@ -1,54 +1,43 @@
-Actividad 1: Mi primer saludo
-Propuesta:
- Crear una aplicación que salude al usuario cuando hace clic en un botón.
-Paso a paso:
-Agregar un Label
-Texto: Ingrese su nombre:
+# 📘 C# — Trabajos Escolares
 
-
-Agregar un TextBox
-Nombre (Name): txtNombre
-
-
-Agregar un Button
-Texto: Saludar
-Nombre (Name): btnSaludar
-
-
-Agregar otro Label para mostrar el saludo
-Nombre (Name): lblResultado
-Texto inicial: (vacío)
+Repositorio con actividades y ejercicios realizados en **C#** con fines **exclusivamente académicos**.
 
 ---
 
-Actividad 2: Calculadora de suma
-Propuesta:
- Crear una aplicación que permita al usuario ingresar dos números y, al hacer clic en un botón, muestre la suma de ambos.
+## 📌 Descripción
 
- Paso a paso:
-Agregar un Label
-Texto: Ingrese el primer número:
+Este repositorio reúne prácticas desarrolladas durante la etapa escolar para aprender los fundamentos de programación en C#, incluyendo aplicaciones de consola y ejercicios básicos.
 
+No corresponde a proyectos profesionales ni a desarrollo productivo.
 
-Agregar un TextBox
-Nombre (Name): txtNumero1
+---
 
+## 🧪 Contenido
 
-Agregar un Label
-Texto: Ingrese el segundo número:
+- Aplicaciones de consola
+- Ejercicios prácticos
+- Actividades académicas
+- Pruebas y trabajos evaluativos
 
+---
 
-Agregar un TextBox
-Nombre (Name): txtNumero2
+## 🛠️ Tecnologías
 
+- C#
+- .NET
+- Visual Studio
 
-Agregar un Button
-Texto: Sumar
-Nombre (Name): btnSumar
+---
 
+## 🚧 Estado del proyecto
 
-Agregar un Label para mostrar el resultado
-Nombre (Name): lblResultado
-Texto inicial: (vacío)
+✅ **Repositorio cerrado**  
+📚 Uso académico — sin mantenimiento activo
 
+Este código se conserva únicamente como registro de aprendizaje.
 
+---
+
+## 👤 Autor
+
+Jordan Iralde
